@@ -7,7 +7,6 @@ while escolha != 5:
     match escolha:
         case 1:
             print(n1 + n2)
-
         case 2:
             print(n1 * n2)
         case 3:
